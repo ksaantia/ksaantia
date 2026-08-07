@@ -5,7 +5,7 @@
 ---
 
 <a name="english"></a>
-## 🇬🇧 English Version
+## English Version
 
 **Hardware, Software & Frontend Developer | Robotics Engineer**  
 📍 *Belarus*
@@ -62,7 +62,7 @@ Passionate about bridging physical hardware, software, and intuitive user interf
 ---
 
 <a name="русский"></a>
-## 🇷🇺 Русская версия
+## Русская версия
 
 **Hardware, Software & Frontend Разработчик | Инженер по робототехнике**  
 📍 *Беларусь*
