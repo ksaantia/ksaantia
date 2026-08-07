@@ -27,7 +27,7 @@ Passionate about bridging physical hardware, software, and intuitive user interf
 
 #### 🎁 Wellness Gift Shop Web Platform
 * **Tech:** React, JavaScript, HTML5, CSS3, UI/UX (Frontend)
-* **Achievement:** 🏆 **6th Place Finalist** at **PROD Hackathon** *(T-Bank / Central University)*
+* **Achievement:** 🏆 **5th Place** at **PROD Hackathon** *(T-Bank / Central University)*
 * Developed the frontend interface for a gift selection web platform as part of a high-performing competitive team.
 
 #### ♻️ Autonomous Robotic Waste-Sorting System
@@ -84,7 +84,7 @@ Passionate about bridging physical hardware, software, and intuitive user interf
 
 #### 🎁 Веб-платформа «Wellness Gift Shop»
 * **Стек:** React, JavaScript, HTML5, CSS3, UI/UX (Frontend)
-* **Достижение:** 🏆 **6-е место (Финалист)** на **хакатоне PROD** *(Т-Банк / Центральный Университет)*
+* **Достижение:** 🏆 **5-е место** на **хакатоне PROD** *(Т-Банк / Центральный Университет)*
 * Разработка пользовательского интерфейса (Frontend) веб-сервиса подбора премиальных подарков в составе команды.
 
 #### ♻️ Автономная роботизированная система сортировки отходов
