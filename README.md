@@ -17,7 +17,7 @@ Passionate about bridging physical hardware, software, and intuitive user interf
 ### 🛠 Tech Stack & Tools
 
 * **Frontend & Web:** React, JavaScript, HTML5, CSS3, UI/UX Design, JavaFX
-* **Languages:** Java (OOP), C++, Python
+* **Languages:** Java (OOP), C++, Python, C#, ST, LAD, FBD
 * **Robotics & CV:** OpenCV (Computer Vision), Arduino, Proteus, EasyEDA, RoboDK, Sysmac Studio, LOGO!
 * **CAD & 3D Modeling:** SolidWorks, Fusion 360, Autodesk Inventor, Shapr3D
 
@@ -74,7 +74,7 @@ Passionate about bridging physical hardware, software, and intuitive user interf
 ### 🛠 Технологический стек и инструменты
 
 * **Frontend & Web:** React, JavaScript, HTML5, CSS3, UI/UX Дизайн, JavaFX
-* **Языки программирования:** Java (ООП), C++, Python
+* **Языки программирования:** Java (ООП), C++, Python, C#, ST, LAD, FBD
 * **Робототехника & CV:** OpenCV (Техническое зрение), Arduino, Proteus, EasyEDA, RoboDK, Sysmac Studio, LOGO!
 * **CAD & 3D-моделирование:** SolidWorks, Fusion 360, Autodesk Inventor, Shapr3D
 
